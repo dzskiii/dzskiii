@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**dzskiii/dzskiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi! 👋 I'm Dzaki.
 
 An Computer Science student who likes creating and sharing projects about programming, especially machine learning.! I've enjoyed Python and make it the main language in creating a project.
@@ -25,11 +8,10 @@ An Computer Science student who likes creating and sharing projects about progra
 - ⚡ Fun fact: 
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></a>
+  <a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="21px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" /></a>
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django (Python Framework)" width="21px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" /></a>
+  <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
   <br>
   <br>
   
