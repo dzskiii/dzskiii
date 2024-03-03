@@ -10,7 +10,7 @@ An Computer Science student who likes creating and sharing projects about progra
 ### Tech Stack
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></a>
   <a href="https://streamlit.io/"><img align="left" alt="Streamlit" title="Streamlit" width="27px" src="https://streamlit.io/images/brand/streamlit-mark-light.png" /></a>
-  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django (Python Framework)" width="30px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" /></a>
+  <a href="https://www.djangoproject.com/"><img align="left" alt="Django" title="Django (Python Framework)" width="33px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" /></a>
   <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
   <br>
   <br>
