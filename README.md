@@ -19,7 +19,7 @@ An Computer Science student who likes creating and sharing projects about progra
 <p align="left">
 <a href="https://github.com/dzskiii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzskiii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzskiii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
