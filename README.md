@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Dzaki.
+### Hi! 👋 I'm Dzaki
 
 An Computer Science student who likes creating and sharing projects about programming, especially machine learning.! I've enjoyed Python and make it the main language in creating a project.
 
