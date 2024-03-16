@@ -5,7 +5,7 @@ An Computer Science student who likes creating and sharing projects about progra
 - 🔭 I’m currently studying at Dian Nuswantoro University
 - 💬 Feel free to ask me about Machine Learning and Python Development
 - 📫 How to reach me: dzakiasari86@gmail.com
-- ⚡ Fun fact: Love Indomie <3
+- ⚡ Fun fact: XP Lane Player at Mobile Legend :)
 
 ### Tech Stack
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></a>
