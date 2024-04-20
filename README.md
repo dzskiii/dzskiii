@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Dzaki
 
-An Computer Science student who likes creating and sharing projects about programming, especially machine learning.! I've enjoyed Python and make it the main language in creating a project.
+An Computer Science student who likes creating and sharing projects about programming, especially machine learning.! I've enjoyed Python and make it the main language in creating a project
 
 - 🔭 I’m currently studying at Dian Nuswantoro University
 - 💬 Feel free to ask me about Machine Learning and Python Development
