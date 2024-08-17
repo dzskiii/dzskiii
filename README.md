@@ -24,6 +24,6 @@ An Computer Science student who likes creating and sharing projects about progra
 </p>
 
 ### Reach me on
-- <a href="www.linkedin.com/in/dzakiasari">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/dzakiasari/">LinkedIn</a>
 - dzakiasari86@gmail.com
 - <a href="https://www.instagram.com/dzskiii">Instagram</a>
