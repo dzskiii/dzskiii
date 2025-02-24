@@ -2,7 +2,7 @@
 
 An Computer Science student who likes creating and sharing projects about programming, especially machine learning.! I've enjoyed Python and make it the main language in creating a project
 
-- 🔭 I’m currently studying at Dian Nuswantoro University
+- 🔭 I’m currently studying at Universitas Dian Nuswantoro
 - 💬 Feel free to ask me about Machine Learning and Python Development
 - 📫 How to reach me: dzakiasari86@gmail.com
 - ⚡ Fun fact: Nasgor Telur Ceplok
